@@ -1,0 +1,13 @@
+{
+  "name": "agente-vendedor-api",
+  "version": "1.0.0",
+  "description": "API Express simples para o agente vendedor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
